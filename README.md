@@ -2,8 +2,9 @@
 <h3 align="center">Frontend Web Developer | Creative Coder | JavaScript Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Crafting+beautiful+and+responsive+websites;Writing+clean+and+efficient+code;Always+learning+something+new!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&width=435&lines=Tanveer+Khilji+Here!;I+love+Frontend+Development;Learning+Advanced+JavaScript;Aiming+to+become+Full+Stack+Dev" alt="Typing SVG" />
 </p>
+
 
 ---
 
